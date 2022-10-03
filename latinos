@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:0, AE Mundo
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00y
+#EXTINF:0, AXN
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a004
+#EXTINF:0, AXN CARD00
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a091
+#EXTINF:0, AXN CARD01
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a08y
+#EXTINF:0, America TV PY
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a01l
+#EXTINF:0, Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00p
+#EXTINF:0, BabyFirst
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a0mg
+#EXTINF:0, C9N
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a022
+#EXTINF:0, CNN Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a036
+#EXTINF:0, CNN Espanol
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a02c
+#EXTINF:0, Canal Estrellas
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a012
+#EXTINF:0, Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a03a
+#EXTINF:0, Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a030
+#EXTINF:0, Cinemax
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a002
+#EXTINF:0, Claro Cinema
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00d
+#EXTINF:0, Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00o
+#EXTINF:0, Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a017
+#EXTINF:0, Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a02b
+#EXTINF:0, Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00f
+#EXTINF:0, Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00n
+#EXTINF:0, Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a02s
+#EXTINF:0, E Entertainment
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00r
+#EXTINF:0, ESPN
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00u
+#EXTINF:0, ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a02u
+#EXTINF:0, ESPN 2 Latin
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00t
+#EXTINF:0, ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00h
+#EXTINF:0, ESPN CO
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a023
+#EXTINF:0, Enlace
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a03f
+#EXTINF:0, FX
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a006
+#EXTINF:0, Fox Sports 1
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a01h
+#EXTINF:0, Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a013
+#EXTINF:0, Fox Sports 3
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a014
+#EXTINF:0, GOL TV
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00v
+#EXTINF:0, HBO
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a001
+#EXTINF:0, HBO 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a02o
+#EXTINF:0, HBO Family
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a02r
+#EXTINF:0, HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a02p
+#EXTINF:0, HBO XTREME SD
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a02q
+#EXTINF:0, History Channel
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a02z
+#EXTINF:0, HomeandHealth
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a01c
+#EXTINF:0, Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a02y
+#EXTINF:0, Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00e
+#EXTINF:0, Nickelodeon
+#EXTINF:0, Sony
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a003
+#EXTINF:0, Space
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a005
+#EXTINF:0, TBS
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a01a
+#EXTINF:0, TCM
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a038
+#EXTINF:0, TLC
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a010
+#EXTINF:0, TNT
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a03b
+#EXTINF:0, Telemundo
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a015
+#EXTINF:0, Trece
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a01j
+#EXTINF:0, TyC
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00w
+#EXTINF:0, Unicanal
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00c
+#EXTINF:0, Universal
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a031
+#EXTINF:0, Universal Cinema SD
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a0kp
+#EXTINF:0, Universal Comedy SD
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a0kq
+#EXTINF:0, Universal Premiere SD
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a0ko
+#EXTINF:0, Warner
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.187:5350/play/a00q
