@@ -1,195 +1,617 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="Entretenimiento",A&E
-http://192.99.70.160:25461/Victor/Victor/6
-#EXTINF:-1 tvg-id="I19.90653.schedulesdirect.org" tvg-name="AMC" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg" group-title="Entretenimiento",AMC
-http://192.99.70.160:25461/Victor/Victor/16
-#EXTINF:-1 tvg-id="I21.96445.schedulesdirect.org" tvg-name="ANIMAL PLANET" tvg-logo="https://www.tv.maocal.com/images/animal.png" group-title="Cultura",ANIMAL PLANET
-http://192.99.70.160:25461/Victor/Victor/17
-#EXTINF:-1 tvg-id="I458.16800.schedulesdirect.org" tvg-name="ANTENA 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="Entretenimiento",ANTENA 3
-http://192.99.70.160:25461/Victor/Victor/18
-#EXTINF:-1 tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg" group-title="Entretenimiento",AXN
-http://192.99.70.160:25461/Victor/Victor/19
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="Entretenimiento",AXN WHITE
-http://192.99.70.160:25461/Victor/Victor/20
-#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="CINEMA PREMIUM",AZ CINEMA
-http://192.99.70.160:25461/Victor/Victor/22
-#EXTINF:-1 tvg-id="I164.61404.schedulesdirect.org" tvg-name="AZ CORAZON" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="Mexico",AZ CORAZON
-http://192.99.70.160:25461/Victor/Victor/23
-#EXTINF:-1 tvg-id="I432.79968.schedulesdirect.org" tvg-name="AZ MUNDO" tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="Mexico",AZ MUNDO
-http://192.99.70.160:25461/Victor/Victor/24
-#EXTINF:-1 tvg-id="I103.47604.schedulesdirect.org" tvg-name="AZTECA 7" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",AZTECA 7
-http://192.99.70.160:25461/Victor/Victor/26
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg" group-title="Mexico",CANAL 5
-http://192.99.70.160:25461/Victor/Victor/32
-#EXTINF:-1 tvg-id="I390.16461.schedulesdirect.org" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="Mexico",CANAL DE LAS ESTRELLAS
-http://192.99.70.160:25461/Victor/Victor/33
-#EXTINF:-1 tvg-id="I113.16141.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK
-http://192.99.70.160:25461/Victor/Victor/35
-#EXTINF:-1 tvg-id="I125.16435.schedulesdirect.org" tvg-name="CINECANAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="CINEMA PREMIUM",CINECANAL
-http://192.99.70.160:25461/Victor/Victor/36
-#EXTINF:-1 tvg-id="I121.15296.schedulesdirect.org" tvg-name="CINELATINO" tvg-logo="https://lasemanadelsur.com/wp-content/uploads/2018/10/cine_02-web.jpg" group-title="CINEMA PREMIUM",CINELATINO
-http://192.99.70.160:25461/Victor/Victor/37
-#EXTINF:-1 tvg-id="I523.59965.schedulesdirect.org" tvg-name="CINEMAX" tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg" group-title="CINEMA PREMIUM",CINEMAX
-http://192.99.70.160:25461/Victor/Victor/38
-#EXTINF:-1 tvg-id="I161.74906.schedulesdirect.org" tvg-name="COMEDY CENTRAL" tvg-logo="https://highnessdottv.files.wordpress.com/2016/11/comedy_central_logo-black.jpg" group-title="Entretenimiento",COMEDY CENTRAL
-http://192.99.70.160:25461/Victor/Victor/40
-#EXTINF:-1 tvg-id="I170.74016.schedulesdirect.org" tvg-name="DE PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="CINEMA PREMIUM",DE PELICULA
-http://192.99.70.160:25461/Victor/Victor/41
-#EXTINF:-1 tvg-id="I173.96307.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg" group-title="Cultura",DISCOVERY CHANNEL
-http://192.99.70.160:25461/Victor/Victor/42
-#EXTINF:-1 tvg-id="I359.111055.schedulesdirect.org" tvg-name="HGTV" tvg-logo="https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/hgtv-live-hero.jpg" group-title="Cultura",HGTV
-http://192.99.70.160:25461/Victor/Victor/43
-#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="DISCOVERY EN ESPAÑOL" tvg-logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg" group-title="Cultura",DISCOVERY EN ESPAÑOL
-http://192.99.70.160:25461/Victor/Victor/44
-#EXTINF:-1 tvg-id="I436.58428.schedulesdirect.org" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://pbs.twimg.com/profile_images/694917796208070660/yLTulGF__400x400.png" group-title="Cultura",DISCOVERY FAMILIA
-http://192.99.70.160:25461/Victor/Victor/45
-#EXTINF:-1 tvg-id="I177.59582.schedulesdirect.org" tvg-name="DISCOVERY H&H" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" group-title="Cultura",DISCOVERY H&H
-http://192.99.70.160:25461/Victor/Victor/46
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Cultura",DISCOVERY ID
-http://192.99.70.160:25461/Victor/Victor/47
-#EXTINF:-1 tvg-id="I183.45955.schedulesdirect.org" tvg-name="DISCOVERY KIDS +" tvg-logo="https://i.pinimg.com/originals/5d/16/97/5d1697354b266bfbb505e4c512eb3c89.png" group-title="KIDS",DISCOVERY KIDS +
-http://192.99.70.160:25461/Victor/Victor/48
-#EXTINF:-1 tvg-id="I184.46610.schedulesdirect.org" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Cultura",DISCOVERY SCIENCE
-http://192.99.70.160:25461/Victor/Victor/49
-#EXTINF:-1 tvg-id="I186.65940.schedulesdirect.org" tvg-name="DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="Cultura",DISCOVERY THEATER
-http://192.99.70.160:25461/Victor/Victor/50
-#EXTINF:-1 tvg-id="I650.74420.schedulesdirect.org" tvg-name="TLC" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="Cultura",TLC
-http://192.99.70.160:25461/Victor/Victor/51
-#EXTINF:-1 tvg-id="I187.46608.schedulesdirect.org" tvg-name="DISCOVERY TURBO" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="Entretenimiento",DISCOVERY TURBO
-http://192.99.70.160:25461/Victor/Victor/52
-#EXTINF:-1 tvg-id="I189.66488.schedulesdirect.org" tvg-name="DISCOVERY WORLD" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="Cultura",DISCOVERY WORLD
-http://192.99.70.160:25461/Victor/Victor/53
-#EXTINF:-1 tvg-id="I190.19234.schedulesdirect.org" tvg-name="DISNEY CHANNEL" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/1280px-disney-channel-logosvg_gyjq.png" group-title="KIDS",DISNEY CHANNEL
-http://192.99.70.160:25461/Victor/Victor/54
-#EXTINF:-1 tvg-id="I289.74796.schedulesdirect.org" tvg-name="DISNEY JR" tvg-logo="https://tvguide1.cbsistatic.com/i/r/2012/01/09/c1b0244d-3161-4fb1-b84c-2015df8542e1/resize/300x206/64a208d9f1b4287fef75691852500699/120109disney-junior-logo1.jpg" group-title="KIDS",DISNEY JR
-http://192.99.70.160:25461/Victor/Victor/55
-#EXTINF:-1 tvg-id="I195.16563.schedulesdirect.org" tvg-name="DISNEY XD" tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="KIDS",DISNEY XD
-http://192.99.70.160:25461/Victor/Victor/56
-#EXTINF:-1 tvg-id="I197.55980.schedulesdirect.org" tvg-name="DISTRITO COMEDIA" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/distrito-comedia_televisa_big.jpg" group-title="Entretenimiento",DISTRITO COMEDIA
-http://192.99.70.160:25461/Victor/Victor/57
-#EXTINF:-1 tvg-id="I218.30259.schedulesdirect.org" tvg-name="E!" tvg-logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg" group-title="Entretenimiento",E!
-http://192.99.70.160:25461/Victor/Victor/58
-#EXTINF:-1 tvg-id="" tvg-name="EL GARAGE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Entretenimiento",EL GARAGE
-http://192.99.70.160:25461/Victor/Victor/59
-#EXTINF:-1 tvg-id="I285.72313.schedulesdirect.org" tvg-name="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="Noticias",FORO TV
-http://192.99.70.160:25461/Victor/Victor/68
-#EXTINF:-1 tvg-id="I288.101732.schedulesdirect.org" tvg-name="FOX" tvg-logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg" group-title="Entretenimiento",FOX
-http://192.99.70.160:25461/Victor/Victor/69
-#EXTINF:-1 tvg-id="I513.105161.schedulesdirect.org" tvg-name="FOX PREMIUM ACTION (Star Action)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CINEMA PREMIUM",FOX PREMIUM ACTION (Star Action)
-http://192.99.70.160:25461/Victor/Victor/70
-#EXTINF:-1 tvg-id="I520.71662.schedulesdirect.org" tvg-name="FOX PREMIUM CINEMA (Star Cinema)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="CINEMA PREMIUM",FOX PREMIUM CINEMA (Star Cinema)
-http://192.99.70.160:25461/Victor/Victor/71
-#EXTINF:-1 tvg-id="I522.44028.schedulesdirect.org" tvg-name="FOX PREMIUM CLASSIC (Star Classic)" tvg-logo="https://2.bp.blogspot.com/-Tdwk5G3WZpI/XCXFWTCaQ_I/AAAAAAAAB6E/BTnK5v3cdhM3eL-ZNCOsd2ygfA14w2fDwCLcBGAs/s320/logo_foxclassics.png" group-title="CINEMA PREMIUM",FOX PREMIUM CLASSIC (Star Classic)
-http://192.99.70.160:25461/Victor/Victor/72
-#EXTINF:-1 tvg-id="I526.81294.schedulesdirect.org" tvg-name="FOX PREMIUM FAMILY (Star Fun)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINEMA PREMIUM",FOX PREMIUM FAMILY (Star Fun)
-http://192.99.70.160:25461/Victor/Victor/73
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="Entretenimiento",FOX LIFE
-http://192.99.70.160:25461/Victor/Victor/74
-#EXTINF:-1 tvg-id="I530.58833.schedulesdirect.org" tvg-name="FOX PREMIUM MOVIES (Star Hits)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png" group-title="CINEMA PREMIUM",FOX PREMIUM MOVIES (Star Hits)
-http://192.99.70.160:25461/Victor/Victor/75
-#EXTINF:-1 tvg-id="I650.18812.schedulesdirect.org" tvg-name="STAR SERIES" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-1-hd_m.png" group-title="Entretenimiento",STAR SERIES
-http://192.99.70.160:25461/Victor/Victor/76
-#EXTINF:-1 tvg-id="I313.46442.schedulesdirect.org" tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="Entretenimiento",FX
-http://192.99.70.160:25461/Victor/Victor/80
-#EXTINF:-1 tvg-id="I318.14988.schedulesdirect.org" tvg-name="FXM" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="Entretenimiento",FXM
-http://192.99.70.160:25461/Victor/Victor/81
-#EXTINF:-1 tvg-id="I404.10222.schedulesdirect.org" tvg-name="GALA TV" tvg-logo="https://logopond.com/logos/b65f4139bec8707292f37b13d24c7081.png" group-title="Entretenimiento",GALA TV
-http://192.99.70.160:25461/Victor/Victor/82
-#EXTINF:-1 tvg-id="I326.24459.schedulesdirect.org" tvg-name="GLITZ" tvg-logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="Entretenimiento",GLITZ
-http://192.99.70.160:25461/Victor/Victor/83
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="CINEMA PREMIUM",GOLDEN EDGE
-http://192.99.70.160:25461/Victor/Victor/85
-#EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" tvg-name="GOLDEN PLUS" tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png" group-title="CINEMA PREMIUM",GOLDEN PLUS
-http://192.99.70.160:25461/Victor/Victor/86
-#EXTINF:-1 tvg-id="I339.84823.schedulesdirect.org" tvg-name="HBO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png" group-title="CINEMA PREMIUM",HBO
-http://192.99.70.160:25461/Victor/Victor/87
-#EXTINF:-1 tvg-id="I356.68140.schedulesdirect.org" tvg-name="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="CINEMA PREMIUM",HBO 2
-http://192.99.70.160:25461/Victor/Victor/88
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINEMA PREMIUM",HBO FAMILY
-http://192.99.70.160:25461/Victor/Victor/89
-#EXTINF:-1 tvg-id="I635.34725.schedulesdirect.org" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINEMA PREMIUM",HBO PLUS
-http://192.99.70.160:25461/Victor/Victor/90
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="Cultura",HISTORY 2
-http://192.99.70.160:25461/Victor/Victor/91
-#EXTINF:-1 tvg-id="I443.43362.schedulesdirect.org" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Cultura",HISTORY CHANNEL
-http://192.99.70.160:25461/Victor/Victor/92
-#EXTINF:-1 tvg-id="I428.91505.schedulesdirect.org" tvg-name="MULTIMEDIOS" tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="Noticias",MULTIMEDIOS
-http://192.99.70.160:25461/Victor/Victor/100
-#EXTINF:-1 tvg-id="I437.105877.schedulesdirect.org" tvg-name="NAT GEO KIDS" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2017/7/5/660x290/b_1200x675/logo-de-natgeokids-imagen-cortesia_1427105.jpg" group-title="KIDS",NAT GEO KIDS
-http://192.99.70.160:25461/Victor/Victor/101
-#EXTINF:-1 tvg-id="I435.72449.schedulesdirect.org" tvg-name="NAT GEO MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="Cultura",NAT GEO MUNDO
-http://192.99.70.160:25461/Victor/Victor/102
-#EXTINF:-1 tvg-id="I443.67590.schedulesdirect.org" tvg-name="NAT GEO WILD" tvg-logo="https://4.bp.blogspot.com/-NEHF7mv2dQc/WG2gPGTgs3I/AAAAAAAABoc/yxTUmMZzghI3tKxvGyQZsLSJIB8CB4SVgCLcB/s1600/maxresdefault.jpg" group-title="Cultura",NAT GEO WILD
-http://192.99.70.160:25461/Victor/Victor/103
-#EXTINF:-1 tvg-id="I442.88533.schedulesdirect.org" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://aweita.cronosmedia.glr.pe/migration/imagen/2020/04/15/noticia-1586989225-natgeo.jpg" group-title="Cultura",NATIONAL GEOGRAPHIC
-http://192.99.70.160:25461/Victor/Victor/104
-#EXTINF:-1 tvg-id="I453.101731.schedulesdirect.org" tvg-name="NICK" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png" group-title="KIDS",NICK
-http://192.99.70.160:25461/Victor/Victor/105
-#EXTINF:-1 tvg-id="I301.19211.schedulesdirect.org" tvg-name=" NICK JR" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="KIDS", NICK JR
-http://192.99.70.160:25461/Victor/Victor/106
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NICKTOONS" tvg-logo="https://kafkadesk.org/wp-content/uploads/2019/09/nicktoons-czech-republic.jpg" group-title="KIDS",NICKTOONS
-http://192.99.70.160:25461/Victor/Victor/107
-#EXTINF:-1 tvg-id="I318.21868.schedulesdirect.org" tvg-name="SHOWTIME" tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="Entretenimiento",SHOWTIME
-http://192.99.70.160:25461/Victor/Victor/111
-#EXTINF:-1 tvg-id="I108.19385.schedulesdirect.org" tvg-name="SONY" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_m.png" group-title="Entretenimiento",SONY
-http://192.99.70.160:25461/Victor/Victor/112
-#EXTINF:-1 tvg-id="I510.60801.schedulesdirect.org" tvg-name="SPACE" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/large.321216179_space-tv(1).png.559057afa15fc73a34e57637b066b575.png" group-title="CINEMA PREMIUM",SPACE
-http://192.99.70.160:25461/Victor/Victor/113
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ" tvg-logo="https://sm.pcmag.com/pcmag_uk/review/s/starz-revi/starz-review_33md.png" group-title="CINEMA PREMIUM",STARZ
-http://192.99.70.160:25461/Victor/Victor/114
-#EXTINF:-1 tvg-id="I426.102905.schedulesdirect.org" tvg-name="STARZ ENCORE" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/12/starz.jpg" group-title="CINEMA PREMIUM",STARZ ENCORE
-http://192.99.70.160:25461/Victor/Victor/115
-#EXTINF:-1 tvg-id="I625.29017.schedulesdirect.org" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" group-title="CINEMA PREMIUM",STUDIO UNIVERSAL
-http://192.99.70.160:25461/Victor/Victor/116
-#EXTINF:-1 tvg-id="I239.16108.schedulesdirect.org" tvg-name="Sundance" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/01/Sundance-TV.png" group-title="Entretenimiento",Sundance
-http://192.99.70.160:25461/Victor/Victor/117
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="SYFY" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sy-fy_m.png" group-title="CINEMA PREMIUM",SYFY
-http://192.99.70.160:25461/Victor/Victor/118
-#EXTINF:-1 tvg-id="I334.80596.schedulesdirect.org" tvg-name="GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="CINEMA PREMIUM",GOLDEN PREMIER
-http://192.99.70.160:25461/Victor/Victor/245
-#EXTINF:-1 tvg-id="I352.80120.schedulesdirect.org" tvg-name="HBO SIGNATURE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINEMA PREMIUM",HBO SIGNATURE
-http://192.99.70.160:25461/Victor/Victor/246
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png" group-title="CINEMA PREMIUM",FOX PREMIUM COMEDY
-http://192.99.70.160:25461/Victor/Victor/247
-#EXTINF:-1 tvg-id="I211.16799.schedulesdirect.org" tvg-name="Universal Channel" tvg-logo="https://pbs.twimg.com/profile_images/49045732/logo-universal-channel.jpg" group-title="CINEMA PREMIUM",Universal Channel
-http://192.99.70.160:25461/Victor/Victor/248
-#EXTINF:-1 tvg-id="I346.70081.schedulesdirect.org" tvg-name="HBO MUNDI" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="CINEMA PREMIUM",HBO MUNDI
-http://192.99.70.160:25461/Victor/Victor/250
-#EXTINF:-1 tvg-id="I470.91029.schedulesdirect.org" tvg-name="Paramount" tvg-logo="http://thedesk.net/wp-content/uploads/2020/08/paramount-concept-slate.png" group-title="CINEMA PREMIUM",Paramount
-http://192.99.70.160:25461/Victor/Victor/251
-#EXTINF:-1 tvg-id="I430.88305.schedulesdirect.org" tvg-name="FILMS ART" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="CINEMA PREMIUM",FILMS ART
-http://192.99.70.160:25461/Victor/Victor/252
-#EXTINF:-1 tvg-id="I421.46610.schedulesdirect.org" tvg-name="Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Cultura",Discovery Science
-http://192.99.70.160:25461/Victor/Victor/280
-#EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN  (opc 3)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="ESPN",USA | ESPN  (opc 3)
-http://192.99.70.160:25461/Victor/Victor/297
-#EXTINF:-1 tvg-id="I658.106709.schedulesdirect.org" tvg-name="TNT Series" tvg-logo="https://assets.elimparcial.com/__export/1562611313007/sites/elimparcial/img/2019/07/08/tnt-series_crop1562611186225.png_423682103.png" group-title="Entretenimiento",TNT Series
-http://192.99.70.160:25461/Victor/Victor/365
-#EXTINF:-1 tvg-id="I702.98111.schedulesdirect.org" tvg-name="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png" group-title="Entretenimiento",WARNER
-http://192.99.70.160:25461/Victor/Victor/366
-#EXTINF:-1 tvg-id="I666.68223.schedulesdirect.org" tvg-name="TruTV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png" group-title="Entretenimiento",TruTV
-http://192.99.70.160:25461/Victor/Victor/367
-#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="Entretenimiento",Unicable
-http://192.99.70.160:25461/Victor/Victor/368
-#EXTINF:-1 tvg-id="I651.37232.schedulesdirect.org" tvg-name="TLnovelas" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Entretenimiento",TLnovelas
-http://192.99.70.160:25461/Victor/Victor/370
-#EXTINF:-1 tvg-id="I661.63109.schedulesdirect.org" tvg-name="Tooncast" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png" group-title="KIDS",Tooncast
-http://192.99.70.160:25461/Victor/Victor/376
-#EXTINF:-1 tvg-id="I631.72294.schedulesdirect.org" tvg-name="NICK 2" tvg-logo="https://i.ytimg.com/vi/aQPZl3KsdPM/maxresdefault.jpg" group-title="KIDS",NICK 2
-http://192.99.70.160:25461/Victor/Victor/378
-#EXTINF:-1 tvg-id="I453.101731.schedulesdirect.org" tvg-name="NICKELODEON" tvg-logo="https://www.plexcollectionposters.com/images/2019/03/11/Nickelodeonb34d161fdb16ee60.png" group-title="KIDS",NICKELODEON
-http://192.99.70.160:25461/Victor/Victor/379
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION MIAMI(W)" tvg-logo="" group-title="Latinos | USA",GALAVISION MIAMI(W)
-http://192.99.70.160:25461/Victor/Victor/596
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION PHOENIX(W)" tvg-logo="" group-title="Latinos | USA",GALAVISION PHOENIX(W)
-http://192.99.70.160:25461/Victor/Victor/599
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SACRAMENTO(W)" tvg-logo="" group-title="Latinos | USA",GALAVISION SACRAMENTO(W)
-http://192.99.70.160:25461/Victor/Victor/601
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SAN ANTONIO(W)" tvg-logo="" group-title="Latinos | USA",GALAVISION SAN ANTONIO(W)
-http://192.99.70.160:25461/Victor/Victor/603
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION WEST(W)" tvg-logo="" group-title="Latinos | USA",GALAVISION WEST(W)
-http://192.99.70.160:25461/Victor/Victor/605
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO 52 LOS ANGELES HD" tvg-logo="" group-title="Latinos | USA",LAT| TELEMUNDO 52 LOS ANGELES HD
-http://192.99.70.160:25461/Victor/Victor/73505
-#EXTINF:-1 tvg-id="" tvg-name="USA | TUDN" tvg-logo="" group-title="Latinos | USA",USA | TUDN
-http://192.99.70.160:25461/Victor/Victor/73545
+#EXTINF:0,2MB | Azteca 7
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092601
+#EXTINF:0,2MB | Azteca Clic LQ
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095401
+#EXTINF:0,2MB | Canal 5
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092598
+#EXTINF:0,2MB | CARTOON NETWORK LQ
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092597
+#EXTINF:0,2MB | Cinecanal
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092595
+#EXTINF:0,2MB | Discovery Theater LQ
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095405
+#EXTINF:0,2MB | Discovery Turbo
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095404
+#EXTINF:0,2MB | Las Estrellas
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092556
+#EXTINF:0,2MB | NICK JR. LQ
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092580
+#EXTINF:0,2MB | Sony
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092579
+#EXTINF:0,2MB | Space
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092578
+#EXTINF:0,2MB| WARNER LQ
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092574
+#EXTINF:0,C | Animal Planet
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10408
+#EXTINF:0,C | Discovery Channel
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10409
+#EXTINF:0,C | Discovery Channel CL HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218850
+#EXTINF:0,C | Discovery Channel CO
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218858
+#EXTINF:0,C | Discovery Channel HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10410
+#EXTINF:0,C | Discovery en Español
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218851
+#EXTINF:0,C | Discovery en Español HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/197236
+#EXTINF:0,C | Discovery Familia
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/183441
+#EXTINF:0,C | Discovery Familia HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/183440
+#EXTINF:0,C | Discovery H&H
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10419
+#EXTINF:0,C | Discovery H&H HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10420
+#EXTINF:0,C | Discovery Investigation
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218863
+#EXTINF:0,C | Discovery Investigation HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10428
+#EXTINF:0,C | Discovery Theater
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10426
+#EXTINF:0,C | Discovery Theater HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218864
+#EXTINF:0,C | Discovery Turbo
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10417
+#EXTINF:0,C | Discovery Turbo HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10418
+#EXTINF:0,C | Discovery World
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10416
+#EXTINF:0,C | Discovery World HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10415
+#EXTINF:0,C | H2
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154074
+#EXTINF:0,C | H2 HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/16080
+#EXTINF:0,C | History
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10423
+#EXTINF:0,C | History 2 HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2160490
+#EXTINF:0,C | History en Español
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/197235
+#EXTINF:0,C | History HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10424
+#EXTINF:0,C | Nat Geo
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218855
+#EXTINF:0,C | Nat Geo Mundo HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218849
+#EXTINF:0,E | A&E HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10546
+#EXTINF:0,E | A3 Series Internacional
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/202065
+#EXTINF:0,E | AMC HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10548
+#EXTINF:0,E | AXN
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10549
+#EXTINF:0,E | AXN HQ
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10550
+#EXTINF:0,E | Dream Works
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2163078
+#EXTINF:0,E | E!
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10556
+#EXTINF:0,E | E! HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10557
+#EXTINF:0,E | Europa TV HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2145664
+#EXTINF:0,E | FX
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10560
+#EXTINF:0,E | Star Channel
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10558
+#EXTINF:0,E | Star Channel HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10559
+#EXTINF:0,E | TNT Series
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10573
+#EXTINF:0,E | Universal TV
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/197619
+#EXTINF:0,E | Univision Tlnovelas
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10572
+#EXTINF:0,I | Cartoon Network
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10969
+#EXTINF:0,I | Cartoon Network HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2216926
+#EXTINF:0,I | Discovery Kids
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10966
+#EXTINF:0,I | Disney Channel
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10971
+#EXTINF:0,I | Disney Channel HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2216924
+#EXTINF:0,I | Nick Jr
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10975
+#EXTINF:0,I | Nick Jr HQ
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/188849
+#EXTINF:0,I | Nickelodeon
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10973
+#EXTINF:0,I | Nickelodeon HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10982
+#EXTINF:0,I | Nicktoons
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10974
+#EXTINF:0,I | Nicktoons HQ
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154092
+#EXTINF:0,I | Universal Kids HQ
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2219747
+#EXTINF:0,N | ADN 40
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10604
+#EXTINF:0,N | ADN 40 HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155157
+#EXTINF:0,N | CNN en Español
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10608
+#EXTINF:0,N | Milenio Noticias HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155160
+#EXTINF:0,N | RT Noticias
+#EXTINF:0,P | A3cine HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/197239
+#EXTINF:0,P | Cine Latino
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10843
+#EXTINF:0,P | Cine Latino HQ
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155849
+#EXTINF:0,P | Cinecanal
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10844
+#EXTINF:0,P | Cinecanal HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10845
+#EXTINF:0,P | Cinemax
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10846
+#EXTINF:0,P | Cinemax HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10847
+#EXTINF:0,P | Claro Cinema
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2091457
+#EXTINF:0,P | De Pelicula
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10856
+#EXTINF:0,P | De Pelicula Clasico HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154096
+#EXTINF:0,P | De Pelicula Clásico
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/201864
+#EXTINF:0,P | De Pelicula HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154098
+#EXTINF:0,P | Film & Arts HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2145709
+#EXTINF:0,P | Golden Edge
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10859
+#EXTINF:0,P | Golden Edge HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154111
+#EXTINF:0,P | Golden HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154110
+#EXTINF:0,P | Golden Plus
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10860
+#EXTINF:0,P | Golden Plus HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10862
+#EXTINF:0,P | Golden Premier
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/200948
+#EXTINF:0,P | Golden Premier HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/200947
+#EXTINF:0,P | Golden.
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10861
+#EXTINF:0,P | MULTICINEMA
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2199237
+#EXTINF:0,P | Paramount Channel
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10866
+#EXTINF:0,P | Paramount Channel HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10867
+#EXTINF:0,P | Space | MX
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10870
+#EXTINF:0,P | Space | MX | HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10871
+#EXTINF:0,P | Starz Encore HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/36818
+#EXTINF:0,P | TNT HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155176
+#EXTINF:0,P | Universal Comedy
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081444
+#EXTINF:0,P | Universal Crime Este
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081445
+#EXTINF:0,P | Universal Crime Oeste
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081449
+#EXTINF:0,P | Universal Premier Este
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081446
+#EXTINF:0,P | Universal Premier Oeste
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081450
+#EXTINF:0,P | Universal Reality
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081447
+#EXTINF:0,P | Universal TV HD
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/75651
+#EXTINF:0,P | USA
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10868
+#EXTINF:0,RD:  Cine Vision 19
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/190803
+#EXTINF:0,RD: CineVision Canal 19
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/190804
+#EXTINF:0,RD| Cinevision
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/190805
+#EXTINF:0,UEFA | TNT MX
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/219731
+#EXTINF:0,D | Estrellas Orientales - Xtremochannel Canal 22
+#EXTVLCOPT:network-caching=1500
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2144847
+#EXTINF:0,CO | Claro Cinema
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1720
+#EXTINF:0,CO | Love Nature
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/20246
+#EXTINF:0,ES | AXN White
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/609
+#EXTINF:0,HND | Canal 5
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1712
+#EXTINF:0,Latino USA | CNN en Español
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/105
+#EXTINF:0,Latino USA | Discovery en Español
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/567
+#EXTINF:0,Latino USA | Discovery Familia
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/253
+#EXTINF:0,Latino USA | Estrella TV
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/418
+#EXTINF:0,Latino USA | Nat Geo Mundo
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1692
+#EXTINF:0,Latino USA | Starz Encore
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/651
+#EXTINF:0,MX | A&E
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/20
+#EXTINF:0,MX | A3S
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/565
+#EXTINF:0,MX | ADN40
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/9
+#EXTINF:0,MX | AMC
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/78
+#EXTINF:0,MX | Animal Planet
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/61
+#EXTINF:0,MX | AXN
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/21
+#EXTINF:0,MX | AYM Sports
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/2873
+#EXTINF:0,MX | AZ Cinema
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/72
+#EXTINF:0,MX | Azteca 7
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/6
+#EXTINF:0,MX | Canal 5
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1457
+#EXTINF:0,MX | Cinecanal
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/73
+#EXTINF:0,MX | Cinemax
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/82
+#EXTINF:0,MX | Claro Sports
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1700
+#EXTINF:0,MX | De Pelicula
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/85
+#EXTINF:0,MX | De Pelicula +
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1699
+#EXTINF:0,MX | Discovery Channel
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/60
+#EXTINF:0,MX | Discovery H&H
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/62
+#EXTINF:0,MX | Discovery ID
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/32
+#EXTINF:0,MX | Discovery Kids
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/43
+#EXTINF:0,MX | Discovery Science
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/110
+#EXTINF:0,MX | Discovery Theater
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/56
+#EXTINF:0,MX | Discovery TLC
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/65
+#EXTINF:0,MX | Discovery Turbo
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/285
+#EXTINF:0,MX | Discovery World
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/59
+#EXTINF:0,MX | Disney Channel
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/46
+#EXTINF:0,MX | Disney JR
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/44
+#EXTINF:0,MX | Distrito Comedia
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/38
+#EXTINF:0,MX | E!
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/30
+#EXTINF:0,MX | FX
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/19
+#EXTINF:0,MX | Golden
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1624
+#EXTINF:0,MX | Golden Edge
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/84
+#EXTINF:0,MX | Golden Plus
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/75
+#EXTINF:0,MX | Golden Premier
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/83
+#EXTINF:0,MX | HBO
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/120
+#EXTINF:0,MX | HBO 2
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/121
+#EXTINF:0,MX | HBO Mundi
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1628
+#EXTINF:0,MX | HBO Plus
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/610
+#EXTINF:0,MX | HBO PoP
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/117
+#EXTINF:0,MX | HBO Signature
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/118
+#EXTINF:0,MX | HBO Xtreme
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/298
+#EXTINF:0,MX | History 2
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/289
+#EXTINF:0,MX | History Channel
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/57
+#EXTINF:0,MX | Hola TV
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1696
+#EXTINF:0,MX | Imagen
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1695
+#EXTINF:0,MX | Nat Geo
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/63
+#EXTINF:0,MX | Nick
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/48
+#EXTINF:0,MX | Nick Jr
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/45
+#EXTINF:0,MX | NickMusic
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/47
+#EXTINF:0,MX | Once Niños
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1705
+#EXTINF:0,MX | Paramount
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1166
+#EXTINF:0,MX | Sony
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/16
+#EXTINF:0,MX | Space
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/79
+#EXTINF:0,MX | Star Channel
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/15
+#EXTINF:0,MX | Studio Universal
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/86
+#EXTINF:0,MX | TNT
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/74
+#EXTINF:0,MX | TNT Novelas
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/39
+#EXTINF:0,MX | TNT Series
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/33
+#EXTINF:0,MX | Tooncast
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/55
+#EXTINF:0,MX | TUDN
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1488
+#EXTINF:0,MX | TVC Deportes
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/28
+#EXTINF:0,MX | Universal Cinema
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1662
+#EXTINF:0,MX | Universal Crime
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1663
+#EXTINF:0,MX | Universal Premiere
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1661
+#EXTINF:0,MX | Universal Reality
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1664
+#EXTINF:0,MX | Universal TV
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/18
+#EXTINF:0,MX | USA Network
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/31
+#EXTINF:0,MX | Warner
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/17
+#EXTINF:0,PE | AMC
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1741
+#EXTINF:0,PE | AXN
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1746
+#EXTINF:0,PE | Canal N
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1761
+#EXTINF:0,PE | Discovery ID
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1744
+#EXTINF:0,PE | Discovery Kids
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1749
+#EXTINF:0,PE | Disney Jr
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1748
+#EXTINF:0,PE | FX
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1743
+#EXTINF:0,PE | Gol TV
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1755
+#EXTINF:0,PE | Nick Jr
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1750
+#EXTINF:0,PE | Sony
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1753
+#EXTINF:0,PE | Star Channel
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1747
+#EXTINF:0,PE | Universal Channel
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1745
+#EXTINF:0,RD | Megacine TV
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/2063
+#EXTINF:0,USA | Unimas
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/286
+#EXTINF:0,USA | UniMas Los Angeles
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1079
+#EXTINF:0,USA | Univision
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/1522
+#EXTINF:0,USA | Univision Los Angeles
+#EXTVLCOPT:network-caching=1500
+http://streamsy.online:2999/PRPLUS/vevnife7/14857
